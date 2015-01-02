@@ -44,7 +44,7 @@ You can call the function in Matlab by:
 
 nni.m
 -------------------------
-Function nni that searches for the best possible phylogenetic tree, using the nearest-neighbor interchange algorithm.
+Function nni that searches for the best possible phylogenetic tree, using a similar concept to the nearest-neighbor interchange algorithm.
     
          Input: phylogenetic tree, parsimony score, multiple sequence alignment
         Output: phylogenetic tree, parsimony score, value to see if score changed
@@ -53,8 +53,10 @@ You can call the function in Matlab by:
 
 *nni(phylogenetic_tree, parsimony, alignment)*
 
-parsimonyTreeSearch.m (Main file: run this to execute all the tasks)
+parsimonyTreeSearch.m 
 -------------------------
+(Main file: run this to execute all the tasks)
+
 Function parsimonyTreeSearch that performs three tasks:
 
 - 1) Builds initial phylogenic tree using pairwise distances of the input multiple sequence alignment
