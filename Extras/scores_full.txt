@@ -1,0 +1,23 @@
+Parsimony scores for each tree, lowest value is desirable (corresponds with image file numbered values):
+
+
+Tree 1 =
+
+   -35318840
+
+
+Tree 2 =
+
+   -35346826
+
+
+Tree 3 =
+
+   -35355340
+
+
+Tree 4 =
+
+   -35324185
+
+    Phylogenetic tree object with 2033 leaves (2032 branches)

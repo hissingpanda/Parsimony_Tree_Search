@@ -1,0 +1,31 @@
+Parsimony scores for each tree, lowest value is desirable (corresponds with image file numbered values):
+
+
+Tree 1 (Initial) =
+
+     -104667
+
+
+Tree 2 =
+
+     -104672
+
+
+Tree 3 =
+
+     -104677
+
+Tree 4 =
+
+     -104535
+
+
+Tree 5 =
+
+     -104542
+
+
+Tree 6 =
+
+     -104718
+
