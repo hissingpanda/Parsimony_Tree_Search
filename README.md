@@ -26,7 +26,7 @@ sankoffAmino.m
 Function sankoffAmino that performs Sankoff's algorithm on two phylogenetic nodes
 
          Input: Left and right node of a branch
-        Output: The parsimony values for each nucleotide at the node 
+        Output: The parsimony values for each amino acid at the node 
 
 You can call the function in Matlab by:
 *sankoffAmino(left_node_of_tree_branch, right_node_of_tree_branch)*
