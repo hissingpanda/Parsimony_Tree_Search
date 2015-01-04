@@ -1,23 +1,5 @@
 Parsimony Tree Search Algorithm
 ===============================
-
-Matlab files in this directory:
-- sankoffAmino.m
-- treeParseAmino.m
-- parsimonyTreeSearch.m
-- nni.m
-- parsimonyTreeSearch2.m
-- nni2.m
-
-Extra files in this directory:
-Extras/
-- Phylogenetic_trees(.)_seed.jpg
-- Phylogenetic_trees(.)_full.jpg
-- Phylogenetic_trees(.)_seed.tree
-- Phylogenetic_trees(.)_full.tree
-- scores_seed.txt
-- scores_full.txt	
-
 Matlab files
 -------------
 
